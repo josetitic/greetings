@@ -32,10 +32,10 @@ func main() {
 	}
 	fmt.Println(message)
 
-	message,err := greetings.Hello("Sami")
+	msg,err := greetings.Hello("Sami")
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println(message)
+	fmt.Println(msg)
 }
 ```
