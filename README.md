@@ -5,7 +5,7 @@ Este paquete proporciona una forma simple de obtener saludos personales en go
 Ejecuta el siguiente comando para instalar el paquete:
 ```bash
 
-go get -u github.com/josetitic/greetings.git
+go get -u github.com/josetitic/greetings
 
 ```
 # Uso
